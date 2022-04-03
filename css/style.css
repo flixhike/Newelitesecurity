@@ -2253,7 +2253,7 @@ a:focus {
 	width:60px;
 	height:60px;
 	bottom:40px;
-	right:40px;
+	left:10px;
 	background-color:#0C9;
 	color:#FFF;
 	border-radius:50px;
@@ -2274,7 +2274,6 @@ align-items:center;
 justify-content:center;
 height: 55px;
 color:white;
-src
 }
 
  
