@@ -2249,7 +2249,7 @@ a:focus {
 	
 .float {
     float:left;
-	position:fixed;
+	position:absolute;
 	width:60px;
 	height:30px;
 	bottom:60px;
